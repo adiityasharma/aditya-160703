@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @aditya-160703
+- Username @adiityasharma
+- 👋 Hi, I’m Aditya Sharma
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning JavaScript / react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityasharma6263@gmail.com / adityasharma626367@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
 
 <!---
